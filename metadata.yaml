@@ -1,0 +1,31 @@
+_repo: When-the-birds-fly-south_71570
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Coblentz, Stanton A. (Stanton Arthur)
+    alias: Coblentz, Stanton Arthur
+    birthdate: 1896
+    deathdate: 1982
+    gutenberg_agent_id: '33343'
+    url: http://www.gutenberg.org/2009/agents/33343
+    wikipedia: https://en.wikipedia.org/wiki/Stanton_A._Coblentz
+description: ''
+gutenberg_issued: '2023-09-05'
+identifiers:
+  gutenberg: '71570'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015060574517&view=1up&seq=7
+pgterms:marc905: 20221128073512coblentz
+pgterms:marc906: '1945'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aNew York, NY :$bThe Wings Press, $c1945.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: When the birds fly south
+url: http://www.gutenberg.org/ebooks/71570
