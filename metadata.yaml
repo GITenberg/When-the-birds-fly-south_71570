@@ -1,5 +1,8 @@
 _repo: When-the-birds-fly-south_71570
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71570-h/images/cover.jpg
 creator:
   author:
     agent_name: Coblentz, Stanton A. (Stanton Arthur)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33343
     wikipedia: https://en.wikipedia.org/wiki/Stanton_A._Coblentz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71570#When-the-birds-fly-south
 gutenberg_issued: '2023-09-05'
 identifiers:
   gutenberg: '71570'
